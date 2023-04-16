@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\bin\Debug\p15StudyCenter.exe.config
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\bin\Debug\p15StudyCenter.exe
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\bin\Debug\p15StudyCenter.pdb
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.Form1.resources
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.Properties.Resources.resources
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.exe
+C:\Users\mberk\source\repos\p15StudyCenter\p15StudyCenter\obj\Debug\p15StudyCenter.pdb
